@@ -1,8 +1,8 @@
 # Hey there, I'm Landon 👋
 ### Computer Science and Finance @ <a href="https://uwaterloo.ca/computing-financial-management/">University of Waterloo</a>
-
 ---
-### About
+### Fun Facts
+- 🤖 I'm super interested in innovative technologies, namely electric and autonomous vehicles
 - 🏎️ I’m currently involved at <a href="https://www.uwmidsun.com/">Midnight Sun</a> as a Strategy Software Developer
 
 ---
