@@ -1,7 +1,7 @@
 # Hey there, I'm Landon 👋
 ### CS + Finance @ <a href="https://uwaterloo.ca/computing-financial-management/">University of Waterloo</a>
 
-### Skills
+### Skills & Experience
 - 👨‍💻 **Work:** Prev @ <a href="https://www.wsib.ca/en">WSIB Ontario</a>, <a href="https://www.arteria.ai/">Arteria AI</a>
 - 💻 **Languages:** `Python`, `TypeScript`, `C/C++`, `HTML/CSS`, `SQL`
 - 🕸️ **Technologies:** `React`, `Redux`, `Node.js`, `Express.js`, `Django`, `Tailwind CSS`
