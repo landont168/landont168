@@ -1,5 +1,5 @@
 # Hey there, I'm Landon 👋
-## Computer Science + Finance @ <a href="https://uwaterloo.ca/computing-financial-management/">University of Waterloo</a>
+## Computer Science @ <a href="https://cs.uwaterloo.ca/">University of Waterloo</a>
 
 ### Skills & Experience
 - 👨‍💻 **Work:** Prev. @ <a href="https://www.wsib.ca/en">**WSIB Ontario**</a>, <a href="https://www.arteria.ai/">**Arteria AI**</a>
